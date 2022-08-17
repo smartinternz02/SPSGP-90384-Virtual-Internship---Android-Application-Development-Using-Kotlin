@@ -21,4 +21,4 @@ Getting Started
 3. Import the sample into Android Studio.
 4. Build and run the sample.
 
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+
